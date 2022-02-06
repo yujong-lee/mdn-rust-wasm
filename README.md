@@ -25,9 +25,9 @@ npm run serve
 
 ## TODO
 
-- Optimize WASM: See official [guide](https://rustwasm.github.io/book/game-of-life/code-size.html#shrinking-wasm-size).
+- `Optimize WASM`: See official [guide](https://rustwasm.github.io/book/game-of-life/code-size.html#shrinking-wasm-size).
 
-- Deep comparison with Zig in tooling: See [zig-wasm-freestanding](https://github.com/yujong-lee/zig-wasm-freestanding).
+- `Deep comparison with Zig in tooling`: See [zig-wasm-freestanding](https://github.com/yujong-lee/zig-wasm-freestanding).
 
 ## Reference
 - [MDN](https://developer.mozilla.org/ko/docs/WebAssembly/Rust_to_wasm)
